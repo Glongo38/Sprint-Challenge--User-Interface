@@ -105,6 +105,7 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
+    border: 1pt solid black; /*ADDED BY STUDENT GARY LONGO*/
     /*background: black;*/
     margin: 20px 2.5%;
     color: white;
@@ -146,6 +147,7 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/*New CSS Code by Gary Longo*/
 .topNavHead{
     display: inline-block;
     padding-top: 30px;
@@ -208,17 +210,34 @@ footer nav a {
 }
 .box1-a {
     width: 400px;
+    padding-bottom: 20px;
 }
 .box2-a {
     width: 400px;
+    padding-bottom: 20px;
 }
 .box3-a {
     width: 400px;
     border-bottom: 1pt dashed black;
     padding-bottom: 20px;
+    padding-top: 20px;
 }
 .box4-a {
     width: 400px;
     border-bottom: 1pt dashed black;
     padding-bottom: 20px;
+    padding-top: 20px;
+}
+.containerLink {
+    border: 1pt solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10%;
+    text-decoration: none;
+    
+}
+footer {
+    margin-top: 20px;
 }
