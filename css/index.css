@@ -193,4 +193,32 @@ footer nav a {
 }
 .aboutMainSection {
     padding-top: 20px;
+    
+}
+.centerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    border-top: 1pt dashed black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+     
+}
+.box1-a {
+    width: 400px;
+}
+.box2-a {
+    width: 400px;
+}
+.box3-a {
+    width: 400px;
+    border-bottom: 1pt dashed black;
+    padding-bottom: 20px;
+}
+.box4-a {
+    width: 400px;
+    border-bottom: 1pt dashed black;
+    padding-bottom: 20px;
 }
