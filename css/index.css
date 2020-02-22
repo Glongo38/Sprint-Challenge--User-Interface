@@ -144,3 +144,18 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.topNavHead{
+    display: inline-block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.topNavHead nav {
+    display: inline-block;
+    padding-left: 50px;
+}
+.topNavHead nav a {
+    text-decoration: none;
+    color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+}
